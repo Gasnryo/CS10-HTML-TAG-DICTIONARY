@@ -1,0 +1,22 @@
+THE HTML DICTIONARY
+
+<a>HYPERLINK;LINK: Adds a clickable link onto the page	EX: <a href="https://www.reddit.com/">Reddit</a>	 Attributes: href												
+<font>FONT,COLOR: Changes the font and color of text.	EX: <font size="3" color="red">TEXT HERE</font>
+<h1>HEADER1: Makes text large and puts it on a seperate line	EX: <h1>Why Dogs Are The Best Animal</h1>												
+<h2>HEADER2: Makes text slightly smaller than header 1 and puts it on a seperate line	EX:^					
+<h3>HEADER3: Makes text slightly smaller than header 2 and puts it on a seperate line	EX:^
+<h4>HEADER4: Makes text slightly smaller than header 3 and puts it on a seperate line	EX:^
+<h5>HEADER5: Makes text slightly smaller than header 4 and puts it on a seperate line	EX:^
+<h6>HEADER6: Makes text slightly smaller than header 5 and puts it on a seperate line	EX:^
+<img>IMAGE,PICTURE: Imbeds an image into the website.	EX: <img src="image.jpg" height="192" width="384"> Atributes: src,height,width
+<li>LIST ITEM;LISTITEM: Used in combination with <ul> or <ol> to create items for their lists.	EX:|
+<ol>ORDEREDLIST;ORDERED LIST: Creates an ordered list using numbers                                V
+EX:
+<ol>
+	<li>List Item 1</li>
+	<li>List Item 2</li>
+	<li>List Item 3</li>
+</ol>
+
+<p>PARAGRAPH: Makes a "paragraph" text	EX: <p>TEXT HERE</p>
+<ul>UNORDEREDLIST;UNORDERED LIST:Creates an unordered list without using numbers		EX is above (<ol>)
